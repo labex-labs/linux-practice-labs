@@ -53,8 +53,8 @@ This course contains lots of labs for Linux, each lab is a small Linux project w
 |     040 | 📖 Linux Simple Text Editing                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271339'>Start Lab</a> |
 |     041 | 📖 Linux Graphical Text Editing                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271289'>Start Lab</a> |
 |     042 | 📖 Preserve Airship's Mystical Archives with Tar      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271397'>Start Lab</a> |
-|     043 | 📖 Mastering Linux File Compression                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271451'>Start Lab</a> |
-|     044 | 📖 Mastering Linux Unzip Decompression                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271421'>Start Lab</a> |
+|     043 | 📖 Linux File Compression                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271451'>Start Lab</a> |
+|     044 | 📖 Linux Unzip Decompression                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271421'>Start Lab</a> |
 |     045 | 📖 Linux Arithmetic Calculations                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271229'>Start Lab</a> |
 |     046 | 📖 Linux Logic Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271325'>Start Lab</a> |
 |     047 | 📖 Linux Text Columnizing                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271249'>Start Lab</a> |
@@ -118,83 +118,86 @@ This course contains lots of labs for Linux, each lab is a small Linux project w
 |     105 | 📖 Crafting Striking Terminal Text With FIGlet        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272383'>Start Lab</a> |
 |     106 | 📖 Display OS Info Stylishly with Neofetch            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299825'>Start Lab</a> |
 |     107 | 📖 Download Media with You-Get                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289657'>Start Lab</a> |
-|     108 | 📖 Interactive Process Viewer With Htop               | ★★☆          | <a target='_blank' href='https://labex.io/labs/271667'>Start Lab</a> |
-|     109 | 📖 Linux 'jq' Programming                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/279945'>Start Lab</a> |
-|     110 | 📖 Manage Multiple Terminals With Screen              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271827'>Start Lab</a> |
-|     111 | 📖 Transcribe Media to Text with Whisper              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289658'>Start Lab</a> |
-|     112 | 📖 Visualize File Differences With Icdiff             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272381'>Start Lab</a> |
-|     113 | 📖 Hunt Down Social Media Accounts                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271644'>Start Lab</a> |
-|     114 | 📖 Linux Python Package Installing                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271355'>Start Lab</a> |
-|     115 | 📖 Linux Job Managing                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271311'>Start Lab</a> |
-|     116 | 📖 Linux Background Running                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271233'>Start Lab</a> |
-|     117 | 📖 Exploring File Systems with Eza                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295948'>Start Lab</a> |
-|     118 | 📖 Linux Job Foregrounding                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271281'>Start Lab</a> |
-|     119 | 📖 Linux Process Terminating                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271315'>Start Lab</a> |
-|     120 | 📖 Linux Multi-Process Killing                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271317'>Start Lab</a> |
-|     121 | 📖 Linux Pattern-Based Killing                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271359'>Start Lab</a> |
-|     122 | 📖 Linux Process Waiting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271433'>Start Lab</a> |
-|     123 | 📖 Linux Background Management                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271231'>Start Lab</a> |
-|     124 | 📖 Linux Output Multiplexing                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271399'>Start Lab</a> |
-|     125 | 📖 Linux Data Piping                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271357'>Start Lab</a> |
-|     126 | 📖 Linux I/O Redirecting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271369'>Start Lab</a> |
-|     127 | 📖 Enhance Copying and Moving with Advcpmv            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295937'>Start Lab</a> |
-|     128 | 📖 Compress and Decompress Files                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/33'>Start Lab</a>     |
-|     129 | 📖 Mastering Shell Pipelines for Data Processing      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153906'>Start Lab</a> |
-|     130 | 📖 Explore Disk Usage with Ncdu                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/296141'>Start Lab</a> |
-|     131 | 📖 NumPy Library Installation and Setup               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86379'>Start Lab</a>  |
-|     132 | 📖 Process Management Tools                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/46'>Start Lab</a>     |
-|     133 | 📖 Quick Start to Hive                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272323'>Start Lab</a> |
-|     134 | 📖 Groups of Linux                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13397'>Start Lab</a>  |
-|     135 | 📖 Linux Logical Commands and Redirection             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48'>Start Lab</a>     |
-|     136 | 📖 Basic Linux File Operations                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/42'>Start Lab</a>     |
-|     137 | 📖 Terminate Processes with kill, killall, and pkill  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/44'>Start Lab</a>     |
-|     138 | 📖 User Group Management                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/50'>Start Lab</a>     |
-|     139 | 📖 Network Information and Test                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/45'>Start Lab</a>     |
-|     140 | 📖 Background Job Management in Linux                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/43'>Start Lab</a>     |
-|     141 | 📖 Set Up Scheduled Tasks                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47'>Start Lab</a>     |
-|     142 | 📖 Connect to Remote                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/34'>Start Lab</a>     |
-|     143 | 📖 Hadoop Installation and Deployment                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272321'>Start Lab</a> |
-|     144 | 📖 YARN Architecture and Development                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272324'>Start Lab</a> |
-|     145 | 📖 File and Disk Usage                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38'>Start Lab</a>     |
-|     146 | 📖 Installation of MySQL                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178583'>Start Lab</a> |
-|     147 | 📖 Linux Deploy LNMP                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7787'>Start Lab</a>   |
-|     148 | 📖 Hello World, Bash!                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153893'>Start Lab</a> |
-|     149 | 📖 Secure File Transfer Basics                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/40'>Start Lab</a>     |
-|     150 | 📖 Bash Trap Command                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153904'>Start Lab</a> |
-|     151 | 📖 Discover Linux System Information                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/36'>Start Lab</a>     |
-|     152 | 📖 Git Config Management                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8715'>Start Lab</a>   |
-|     153 | 📖 File System Operations in Shell                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153905'>Start Lab</a> |
-|     154 | 📖 Working with Shell Variables                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153894'>Start Lab</a> |
-|     155 | 📖 Mastering SQL's SELECT Statement                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178585'>Start Lab</a> |
-|     156 | 📖 Beginner's Rust Programming: Hello World           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100384'>Start Lab</a> |
-|     157 | 📖 Arithmetic Operations in Shell Programming         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153897'>Start Lab</a> |
-|     158 | 📖 Conditional Statements in Shell Programming        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153899'>Start Lab</a> |
-|     159 | 📖 Special Variables in Shell Scripting               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153903'>Start Lab</a> |
-|     160 | 📖 Command-Line File Downloading Tools                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/37'>Start Lab</a>     |
-|     161 | 📖 Other Basic Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178587'>Start Lab</a> |
-|     162 | 📖 Passing Arguments to the Script                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153895'>Start Lab</a> |
-|     163 | 📖 Mastering Bash Scripting Loops                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153900'>Start Lab</a> |
-|     164 | 📖 Shell Programming Functions                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153902'>Start Lab</a> |
-|     165 | 📖 Basic String Operations                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153898'>Start Lab</a> |
-|     166 | 📖 Exploring IPython's Interactive Computing Features | ★☆☆          | <a target='_blank' href='https://labex.io/labs/83'>Start Lab</a>     |
-|     167 | 📖 Modify and Delete                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178586'>Start Lab</a> |
-|     168 | 📖 Comparing Arrays in Shell Scripting                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153901'>Start Lab</a> |
-|     169 | 📖 Database Management Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178584'>Start Lab</a> |
-|     170 | 📖 Git Branch Basic Operations                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8435'>Start Lab</a>   |
-|     171 | 📖 Controlling Symbols and Combining Submodules       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132530'>Start Lab</a> |
-|     172 | 📖 Shell Programming Arrays                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153896'>Start Lab</a> |
-|     173 | 📖 Running Your First Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
-|     174 | 📖 Crafting Command-Line Python Programs              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/73'>Start Lab</a>     |
-|     175 | 📖 Initialize Git Project                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/1507'>Start Lab</a>   |
-|     176 | 📖 NumPy Asarray Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86404'>Start Lab</a>  |
-|     177 | 📖 Figure Size Units                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48731'>Start Lab</a>  |
-|     178 | 📖 Architecture and Operations of HDFS                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272320'>Start Lab</a> |
-|     179 | 📖 Learn About Managed Generators                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132526'>Start Lab</a> |
-|     180 | 📖 Matplotlib Text Wrapping and Styling               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48560'>Start Lab</a>  |
-|     181 | 📖 Python Matplotlib Plotting Basics                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48739'>Start Lab</a>  |
-|     182 | 📖 Creating and Using Python NumPy Arrays             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86402'>Start Lab</a>  |
-|     183 | 📖 Matplotlib Data Visualization Techniques           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48556'>Start Lab</a>  |
-|     184 | 📖 Customizing Text Paths with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48685'>Start Lab</a>  |
+|     108 | 📖 Fast Searching With Ripgrep                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384504'>Start Lab</a> |
+|     109 | 📖 File Structure Visualization With Tre              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384505'>Start Lab</a> |
+|     110 | 📖 Interactive Process Viewer With Htop               | ★★☆          | <a target='_blank' href='https://labex.io/labs/271667'>Start Lab</a> |
+|     111 | 📖 Linux 'jq' Programming                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/279945'>Start Lab</a> |
+|     112 | 📖 Manage Multiple Terminals With Screen              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271827'>Start Lab</a> |
+|     113 | 📖 Monitor System Resources With Glances              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384503'>Start Lab</a> |
+|     114 | 📖 Transcribe Media to Text with Whisper              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289658'>Start Lab</a> |
+|     115 | 📖 Visualize File Differences With Icdiff             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272381'>Start Lab</a> |
+|     116 | 📖 Hunt Down Social Media Accounts                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271644'>Start Lab</a> |
+|     117 | 📖 Linux Python Package Installing                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271355'>Start Lab</a> |
+|     118 | 📖 Linux Job Managing                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271311'>Start Lab</a> |
+|     119 | 📖 Linux Background Running                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271233'>Start Lab</a> |
+|     120 | 📖 Exploring File Systems with Eza                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295948'>Start Lab</a> |
+|     121 | 📖 Linux Job Foregrounding                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271281'>Start Lab</a> |
+|     122 | 📖 Linux Process Terminating                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271315'>Start Lab</a> |
+|     123 | 📖 Linux Multi-Process Killing                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271317'>Start Lab</a> |
+|     124 | 📖 Linux Pattern-Based Killing                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271359'>Start Lab</a> |
+|     125 | 📖 Linux Process Waiting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271433'>Start Lab</a> |
+|     126 | 📖 Linux Background Management                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271231'>Start Lab</a> |
+|     127 | 📖 Linux Output Multiplexing                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271399'>Start Lab</a> |
+|     128 | 📖 Linux Data Piping                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271357'>Start Lab</a> |
+|     129 | 📖 Linux I/O Redirecting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271369'>Start Lab</a> |
+|     130 | 📖 Enhance Copying and Moving with Advcpmv            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295937'>Start Lab</a> |
+|     131 | 📖 Compress and Decompress Files                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/33'>Start Lab</a>     |
+|     132 | 📖 Shell Pipelines for Data Processing                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385394'>Start Lab</a> |
+|     133 | 📖 Explore Disk Usage with Ncdu                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/296141'>Start Lab</a> |
+|     134 | 📖 NumPy Library Installation and Setup               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86379'>Start Lab</a>  |
+|     135 | 📖 Process Management Tools                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/46'>Start Lab</a>     |
+|     136 | 📖 Quick Start to Hive                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272323'>Start Lab</a> |
+|     137 | 📖 Groups of Linux                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13397'>Start Lab</a>  |
+|     138 | 📖 Linux Logical Commands and Redirection             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48'>Start Lab</a>     |
+|     139 | 📖 Basic Linux File Operations                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/42'>Start Lab</a>     |
+|     140 | 📖 Terminate Processes with kill, killall, and pkill  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/44'>Start Lab</a>     |
+|     141 | 📖 User Group Management                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/50'>Start Lab</a>     |
+|     142 | 📖 Network Information and Test                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/45'>Start Lab</a>     |
+|     143 | 📖 Background Job Management in Linux                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/43'>Start Lab</a>     |
+|     144 | 📖 Set Up Scheduled Tasks                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47'>Start Lab</a>     |
+|     145 | 📖 Connect to Remote                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/34'>Start Lab</a>     |
+|     146 | 📖 Hadoop Installation and Deployment                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272321'>Start Lab</a> |
+|     147 | 📖 YARN Architecture and Development                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272324'>Start Lab</a> |
+|     148 | 📖 File and Disk Usage                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38'>Start Lab</a>     |
+|     149 | 📖 Installation of MySQL                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178583'>Start Lab</a> |
+|     150 | 📖 Linux Deploy LNMP                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7787'>Start Lab</a>   |
+|     151 | 📖 Hello World, Bash!                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385381'>Start Lab</a> |
+|     152 | 📖 Secure File Transfer Basics                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/40'>Start Lab</a>     |
+|     153 | 📖 Bash Trap Command                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385392'>Start Lab</a> |
+|     154 | 📖 Discover Linux System Information                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/36'>Start Lab</a>     |
+|     155 | 📖 Git Config Management                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385164'>Start Lab</a> |
+|     156 | 📖 File System Operations in Shell                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385393'>Start Lab</a> |
+|     157 | 📖 Working with Shell Variables                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385382'>Start Lab</a> |
+|     158 | 📖 SQL's SELECT Statement                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178585'>Start Lab</a> |
+|     159 | 📖 Beginner's Rust Programming: Hello World           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100384'>Start Lab</a> |
+|     160 | 📖 Arithmetic Operations in Shell Programming         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385385'>Start Lab</a> |
+|     161 | 📖 Conditional Statements in Shell Programming        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385387'>Start Lab</a> |
+|     162 | 📖 Special Variables in Shell Scripting               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385391'>Start Lab</a> |
+|     163 | 📖 Command-Line File Downloading Tools                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/37'>Start Lab</a>     |
+|     164 | 📖 Other Basic Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178587'>Start Lab</a> |
+|     165 | 📖 Passing Arguments to the Script                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385383'>Start Lab</a> |
+|     166 | 📖 Bash Scripting Loops                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385388'>Start Lab</a> |
+|     167 | 📖 Shell Functions                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385390'>Start Lab</a> |
+|     168 | 📖 Basic String Operations                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385386'>Start Lab</a> |
+|     169 | 📖 Exploring IPython's Interactive Computing Features | ★☆☆          | <a target='_blank' href='https://labex.io/labs/83'>Start Lab</a>     |
+|     170 | 📖 Modify and Delete                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178586'>Start Lab</a> |
+|     171 | 📖 Comparing Arrays in Shell Scripting                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385389'>Start Lab</a> |
+|     172 | 📖 Database Management Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178584'>Start Lab</a> |
+|     173 | 📖 Git Branch Basic Operations                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385163'>Start Lab</a> |
+|     174 | 📖 Controlling Symbols and Combining Submodules       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132530'>Start Lab</a> |
+|     175 | 📖 Shell Arrays                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385384'>Start Lab</a> |
+|     176 | 📖 Running Your First Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
+|     177 | 📖 Crafting Command-Line Python Programs              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/73'>Start Lab</a>     |
+|     178 | 📖 Initialize Git Project                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385165'>Start Lab</a> |
+|     179 | 📖 NumPy Asarray Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86404'>Start Lab</a>  |
+|     180 | 📖 Figure Size Units                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48731'>Start Lab</a>  |
+|     181 | 📖 Architecture and Operations of HDFS                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272320'>Start Lab</a> |
+|     182 | 📖 Learn About Managed Generators                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132526'>Start Lab</a> |
+|     183 | 📖 Matplotlib Text Wrapping and Styling               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48560'>Start Lab</a>  |
+|     184 | 📖 Python Matplotlib Plotting Basics                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48739'>Start Lab</a>  |
+|     185 | 📖 Creating and Using Python NumPy Arrays             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86402'>Start Lab</a>  |
+|     186 | 📖 Matplotlib Data Visualization Techniques           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48556'>Start Lab</a>  |
+|     187 | 📖 Customizing Text Paths with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48685'>Start Lab</a>  |
 
 ## More
 
