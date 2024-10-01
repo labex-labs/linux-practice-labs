@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                | Difficulty   | Practice                                                                                                                               |
-|---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                               | Difficulty   | Practice                                                                                                                               |
+|---------|----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Linux Text Display                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-text-display-271273'>Start Lab</a>                                     |
 |     002 | 🎯 Linux Enchantment Display                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-enchantment-display-271272'>Start Challenge</a>                        |
 |     003 | 📖 Linux Screen Clearing                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-screen-clearing-271245'>Start Lab</a>                                  |
@@ -241,20 +241,18 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     212 | 🎯 Linux Job Foregrounding                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-job-foregrounding-271280'>Start Challenge</a>                          |
 |     213 | 📖 Linux Process Terminating                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-process-terminating-271315'>Start Lab</a>                              |
 |     214 | 🎯 Ninja Process Termination Training               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-ninja-process-termination-training-271314'>Start Challenge</a>               |
-|     215 | 📖 Linux Multi-Process Killing                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-multi-process-killing-271317'>Start Lab</a>                            |
-|     216 | 🎯 Linux Multi-Process Purge Quest                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-multi-process-purge-quest-271316'>Start Challenge</a>                  |
-|     217 | 📖 Linux Pattern-Based Killing                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-pattern-based-killing-271359'>Start Lab</a>                            |
-|     218 | 🎯 Banishing Ghosts with Pattern-Based Killing      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-banishing-ghosts-with-pattern-based-killing-271358'>Start Challenge</a>      |
-|     219 | 📖 Linux Process Waiting                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-process-waiting-271433'>Start Lab</a>                                  |
-|     220 | 🎯 Virtual Process Synchronization Mastery          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-virtual-process-synchronization-mastery-271432'>Start Challenge</a>          |
-|     221 | 📖 Linux Background Management                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-background-management-271231'>Start Lab</a>                            |
-|     222 | 🎯 CosmosHub Linux Mastery                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-cosmoshub-linux-mastery-271230'>Start Challenge</a>                          |
-|     223 | 📖 Linux Output Multiplexing                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-output-multiplexing-271399'>Start Lab</a>                              |
-|     224 | 🎯 Ming Palace Information Flow Management          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-ming-palace-information-flow-management-271398'>Start Challenge</a>          |
-|     225 | 📖 Linux Data Piping                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-data-piping-271357'>Start Lab</a>                                      |
-|     226 | 🎯 Cosmic Data Flow Mastery                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-cosmic-data-flow-mastery-271356'>Start Challenge</a>                         |
-|     227 | 📖 Linux I/O Redirecting                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-i-o-redirecting-271369'>Start Lab</a>                                  |
-|     228 | 🎯 Magical Potion Mastery with Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-magical-potion-mastery-with-linux-271368'>Start Challenge</a>                |
+|     215 | 📖 Linux Pattern-Based Killing                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-pattern-based-killing-271359'>Start Lab</a>                            |
+|     216 | 🎯 Banishing Ghosts with Pattern-Based Killing      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-banishing-ghosts-with-pattern-based-killing-271358'>Start Challenge</a>      |
+|     217 | 📖 Linux Process Waiting                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-process-waiting-271433'>Start Lab</a>                                  |
+|     218 | 🎯 Virtual Process Synchronization Mastery          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-virtual-process-synchronization-mastery-271432'>Start Challenge</a>          |
+|     219 | 📖 Linux Background Management                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-background-management-271231'>Start Lab</a>                            |
+|     220 | 🎯 CosmosHub Linux Mastery                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-cosmoshub-linux-mastery-271230'>Start Challenge</a>                          |
+|     221 | 📖 Linux Output Multiplexing                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-output-multiplexing-271399'>Start Lab</a>                              |
+|     222 | 🎯 Ming Palace Information Flow Management          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-ming-palace-information-flow-management-271398'>Start Challenge</a>          |
+|     223 | 📖 Linux Data Piping                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-data-piping-271357'>Start Lab</a>                                      |
+|     224 | 🎯 Cosmic Data Flow Mastery                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-cosmic-data-flow-mastery-271356'>Start Challenge</a>                         |
+|     225 | 📖 Linux I/O Redirecting                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-i-o-redirecting-271369'>Start Lab</a>                                  |
+|     226 | 🎯 Magical Potion Mastery with Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-magical-potion-mastery-with-linux-271368'>Start Challenge</a>                |
 
 ## More
 
