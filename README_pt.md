@@ -1,14 +1,16 @@
 # Labs práticos de Linux
 
-## Idiomas
+**Idiomas:** [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [English](README.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/pt/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 Cursos práticos de Linux em um caminho para iniciantes: da linha de comando à administração e shell scripting, com laboratório interativo e exercícios sem vídeo voltados a operação e automação.
+
+[Começar a praticar no LabEx](https://labex.io/pt/learn/linux)
 
 Explore até 200 labs práticos de Linux no LabEx. Cada lab abre em um ambiente interativo para você praticar fazendo.
 
@@ -215,11 +217,5 @@ Explore até 200 labs práticos de Linux no LabEx. Cada lab abre em um ambiente 
 |      199 | [Explore a Interação da Camada de Rede com ping e arp no Linux](https://labex.io/pt/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)                   | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)    |
 |      200 | [Simular Conectividade de Camada de Rede no Linux](https://labex.io/pt/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                                                | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                    |
 
-Mais labs estão disponíveis no LabEx: [Ver todos os labs](https://labex.io/pt/learn/linux).
-
-## Mais
-
-- 🔗 [Saiba mais sobre Linux no LabEx](https://labex.io/pt/learn/linux)
-- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
+<hr><div align="center"><p><a href="https://labex.io"><strong>LabEx</strong></a> é uma <strong>plataforma de aprendizagem prática para iniciantes</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a> e <strong>muito mais</strong>, tudo diretamente no navegador.</p><p>Aprenda passo a passo com <strong>labs interativos</strong>, <strong>exercícios guiados</strong> e <strong>projetos do mundo real</strong>. 🌱<br />Sem configuração, sem estresse: apenas pratique e desenvolva suas habilidades fazendo.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Precisa de ajuda? Visite nossa <a href="https://support.labex.io/">Central de ajuda</a> ou envie um e-mail para info@labex.io</p></div>
 
