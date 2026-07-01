@@ -1,16 +1,18 @@
 # Linux 실습 랩
 
-## 언어
+**언어:** [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [English](README.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/ko/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 초보자를 위한 실습 중심 Linux 온라인 강좌 경로: 명령줄부터 시스템 관리와 셸 스크립팅까지, 대화형 셸 플레이그라운드에서 비디오 없는 실습으로 운영과 자동화 역량을 쌓습니다.
 
-LabEx 의 200개 이하 Linux 실습 랩을 살펴보세요. 각 랩은 대화형 환경에서 열려 직접 해 보며 연습할 수 있습니다.
+[LabEx에서 실습 시작](https://labex.io/ko/learn/linux)
+
+LabEx에서 최대 200개의 Linux 실습 랩을 살펴보세요. 각 랩은 대화형 환경에서 열려 직접 해 보며 연습할 수 있습니다.
 
 |   인덱스 | 이름                                                                                                                                                 | 난이도   | 연습                                                                                                               |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------|------------------------------------------------------------------------------------------------------------------|
@@ -215,11 +217,5 @@ LabEx 의 200개 이하 Linux 실습 랩을 살펴보세요. 각 랩은 대화�
 |   199 | [Linux 에서 ping 및 arp 를 사용한 네트워크 계층 상호 작용 탐색](https://labex.io/ko/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746) | 초급    | [실습 시작](https://labex.io/ko/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)    |
 |   200 | [Linux 에서 네트워크 계층 연결 시뮬레이션](https://labex.io/ko/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                                  | 초급    | [실습 시작](https://labex.io/ko/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                    |
 
-LabEx 에서 더 많은 랩을 볼 수 있습니다: [모든 랩 보기](https://labex.io/ko/learn/linux).
-
-## 더 보기
-
-- 🔗 [LabEx 에서 Linux 더 알아보기](https://labex.io/ko/learn/linux)
-- 🔗 [더 많은 프로그래밍 프로젝트 탐색](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [프로그래밍 코스 탐색](https://github.com/labex-labs/awesome-programming-courses)
+<hr><div align="center"><p><a href="https://labex.io"><strong>LabEx</strong></a> 는 <strong>초보자를 위한 실습 중심 학습 플랫폼</strong>입니다.</p><p><a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a> 등 <strong>다양한 주제</strong>를 브라우저에서 바로 탐색하세요.</p><p><strong>인터랙티브 랩</strong>, <strong>단계별 실습</strong>, <strong>실전 프로젝트</strong>를 통해 차근차근 배울 수 있습니다. 🌱<br />설정도 스트레스도 없이, 직접 해 보며 실력을 키우세요.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 도움이 필요하신가요? <a href="https://support.labex.io/">도움말 센터</a>를 방문하거나 info@labex.io 로 이메일을 보내 주세요</p></div>
 
