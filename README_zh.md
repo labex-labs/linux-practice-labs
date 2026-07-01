@@ -1,14 +1,16 @@
 # Linux 实践实验
 
-## 支持语言
+**支持语言:** [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [English](README.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/zh/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 面向初学者的系统化 Linux 课程路径：从命令行、系统管理到 Shell 脚本，在交互式 Shell 演练场中通过动手实验（非视频）夯实 Linux 运维与自动化能力。
+
+[在 LabEx 开始练习](https://labex.io/zh/learn/linux)
 
 浏览 LabEx 上最多 200 个Linux动手实验。每个实验都会打开交互式环境，帮助你边做边练。
 
@@ -215,11 +217,5 @@
 |  199 | [在 Linux 中使用 ping 和 arp 探索网络层交互](https://labex.io/zh/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746) | 初级   | [开始实验](https://labex.io/zh/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)    |
 |  200 | [在 Linux 中模拟网络层连通性](https://labex.io/zh/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                              | 初级   | [开始实验](https://labex.io/zh/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                    |
 
-LabEx 上还有更多实验： [查看全部实验](https://labex.io/zh/learn/linux).
-
-## 更多
-
-- 🔗 [在 LabEx 上了解更多Linux内容](https://labex.io/zh/learn/linux)
-- 🔗 [探索更多编程项目](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [探索编程课程](https://github.com/labex-labs/awesome-programming-courses)
+<hr><div align="center"><p><a href="https://labex.io"><strong>LabEx</strong></a> 是一个<strong>面向初学者的动手学习平台</strong>。</p><p>探索 <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>、<a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>、<a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a> 以及<strong>更多内容</strong>，全部都可以直接在浏览器中完成。</p><p>通过<strong>交互式实验</strong>、<strong>引导式练习</strong>和<strong>真实项目</strong>循序渐进地学习。🌱<br />无需配置，不必焦虑，只需通过实践不断提升技能。</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 需要帮助？请访问<a href="https://support.labex.io/">帮助中心</a>，或发送邮件至 info@labex.io</p></div>
 
