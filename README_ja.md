@@ -1,14 +1,16 @@
 # Linux 実践ラボ
 
-## 言語
+**言語:** [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [English](README.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/ja/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 初心者向けの実践型 Linux コースパス。CLI からシステム管理・シェルスクリプトまでをインタラクティブなシェルプレイグラウンドで段階的にカバーし、運用と自動化に使えるスキルを積み上げます。
+
+[LabEx で練習を開始](https://labex.io/ja/learn/linux)
 
 LabEx の最大 200 個の Linux ハンズオンラボを一覧できます。各ラボはインタラクティブ環境で開き、実践しながら学べます。
 
@@ -215,11 +217,5 @@ LabEx の最大 200 個の Linux ハンズオンラボを一覧できます。�
 |      199 | [Linux の ping と arp でネットワーク層の相互作用を探る](https://labex.io/ja/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)    | 初級    | [ラボを開始](https://labex.io/ja/labs/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746)    |
 |      200 | [Linux におけるネットワーク層接続のシミュレーション](https://labex.io/ja/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                           | 初級    | [ラボを開始](https://labex.io/ja/labs/comptia-simulate-network-layer-connectivity-in-linux-592752)                    |
 
-LabEx にはさらに多くのラボがあります： [すべてのラボを見る](https://labex.io/ja/learn/linux).
-
-## その他
-
-- 🔗 [LabEx で Linux について詳しく見る](https://labex.io/ja/learn/linux)
-- 🔗 [さらにプログラミングプロジェクトを見る](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [プログラミングコースを見る](https://github.com/labex-labs/awesome-programming-courses)
+<hr><div align="center"><p><a href="https://labex.io"><strong>LabEx</strong></a> は、<strong>初心者向けの実践型学習プラットフォーム</strong>です。</p><p><a href="https://labex.io/learn/linux"><strong>Linux</strong></a>、<a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>、<a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a> など、<strong>さまざまな内容</strong>をブラウザだけで学べます。</p><p><strong>インタラクティブなラボ</strong>、<strong>ガイド付き演習</strong>、<strong>実践的なプロジェクト</strong>を通じて、ステップごとに学習できます。🌱<br />環境構築もストレスも不要。手を動かしながらスキルを伸ばしましょう。</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 お困りですか？<a href="https://support.labex.io/">ヘルプセンター</a>をご覧いただくか、info@labex.io までメールでお問い合わせください</p></div>
 
